@@ -36,7 +36,7 @@ for x in range(k*3):
 
     # tum renklerden en az 4 tane secilmis ise secmeyi birak
     if len(secilen_kirmizi) >= 4 or len(secilen_mavi) >= 4 or len(secilen_beyaz) >= 4:
-        print('secilen top sayisi : {}'.format(x))
+        print('secilen top sayisi : {}'.format(x+1))
         print('secilen kirmizi : {} {} tane'.format(secilen_kirmizi, len(secilen_kirmizi)))
         print('secilen mavi : {} {} tane'.format(secilen_mavi, len(secilen_mavi)))
         print('secilen beyaz : {} {} tane\n'.format(secilen_beyaz, len(secilen_beyaz)))
