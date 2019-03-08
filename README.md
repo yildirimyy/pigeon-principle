@@ -1,4 +1,4 @@
-#Güvercin Yuvası İlkesi
+# Güvercin Yuvası İlkesi
 
 Gauss'un fikrine göre güvercin beslediğimizi düşünürsek, her akşam yuvalarına dönecek güvercinlerimiz var demektir. Eğer güvercinlerimizin sayısı (n) yuva sayısından (m) fazla ya da büyük eşit ise en az bir yuvada birden fazla güvercin olacaktır.
 
@@ -6,7 +6,7 @@ Gauss'un fikrine göre güvercin beslediğimizi düşünürsek, her akşam yuval
 
 ![](https://raw.githubusercontent.com/yildirimyy/pigeonhole-principle/master/screen/pigeon.jpg) 
 
-##Örnek:
+## Örnek:
 
 ```
 n = 5 güvercin, m = 4 yuva dersek;
@@ -15,10 +15,10 @@ n ≤ m olma durumunda bile en az 1 güvercin olacaktır.
 
 ```
 
-##Problem:
+## Problem:
 Bir torba 10 adet beyaz, 10 adet kırmızı ve 10 adet de mavi top bulunmaktadır. Bu torbadan rastgele seçilen toplardan 4 tanesinin aynı renk olması için toplamda kaç adet top seçilmesi gerekmektedir?
 
-####Çözüm:
+#### Çözüm:
 ```
 Renk sayısına güvercin yuvası sayısı = 3 dersek;
 Toplara da güvercin sayısı = 4 dersek;
@@ -28,10 +28,10 @@ Toplara da güvercin sayısı = 4 dersek;
 
 ![](https://raw.githubusercontent.com/yildirimyy/pigeonhole-principle/master/screen/ball_screen.png) 
 
-##Problem:
+## Problem:
 Güvercin Yuvası İlkesinin Kullanımı ile π Sayısının Rasyonel Bir Yaklaşımı
 
-####Çözüm:
+#### Çözüm:
 ```
 Bize 0π’den 1000π’ye kadar sayıların çarpımları verilmiş olsun. (0π = 0, 1π = 3.1415, 2π = 6.2831, ...) 
 (Sayının ondalık basamağındaki ilk 3 sayı dikkate alınacak)
