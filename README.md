@@ -36,7 +36,8 @@ Güvercin Yuvası İlkesinin Kullanımı ile π Sayısının Rasyonel Bir Yakla�
 Bize 0π’den 1000π’ye kadar sayıların çarpımları verilmiş olsun. (0π = 0, 1π = 3.1415, 2π = 6.2831, ...) 
 (Sayının ondalık basamağındaki ilk 3 sayı dikkate alınacak)
 
-0’dan 1000’e kadar π’nin katları verildiğinde ilk 3 basamağın aynı olması için 1000 ihtimal vardır. 1001π verilirse Güvercin Yuvası İlkesinden yola çıkarak 2 çarpımın virgülden sonraki 3 hanesinin aynı olması gerektiği sonucuna varırız. 
+0’dan 1000’e kadar π’nin katları verildiğinde ilk 3 basamağın aynı olması için 1000 ihtimal vardır.
+1001π verilirse Güvercin Yuvası İlkesinden yola çıkarak 2 çarpımın virgülden sonraki 3 hanesinin aynı olması gerektiği sonucuna varırız. 
 
 m ve n’e virgülden sonraki 3 basamağın aynı olduğu sayılar ve m>n dersek;
 
